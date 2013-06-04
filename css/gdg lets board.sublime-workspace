@@ -1,0 +1,513 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"docs",
+				"docsConfig"
+			],
+			[
+				"con",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Jeado/dev-home/workspace/gdg-web-board/package.json",
+			"settings":
+			{
+				"buffer_size": 306,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Jeado/dev-home/workspace/gdg-web-board/.gitignore",
+			"settings":
+			{
+				"buffer_size": 12,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Jeado/dev-home/workspace/gdg-web-board/src/app.js",
+			"settings":
+			{
+				"buffer_size": 1496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Jeado/dev-home/workspace/gdg-web-board/index.html",
+			"settings":
+			{
+				"buffer_size": 982,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.css",
+			"settings":
+			{
+				"buffer_size": 437,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Bower: Install"
+			],
+			[
+				"bower",
+				"Bower: Configure project"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jeado/dev-home/workspace/gdg-web-board/Gruntfile.js",
+		"/Users/Jeado/dev-home/workspace/gdg-web-board/css/app.css",
+		"/Users/Jeado/dev-home/workspace/gdg-web-board/vendor/bootstrap/README.md",
+		"/Users/Jeado/dev-home/workspace/gdg-web-board/.bowerrc",
+		"/Users/jeado/Documents/workspace/angular.js/docs/content-ko/wordlists.md",
+		"/Users/jeado/Documents/workspace/angular.js/build/angular-bootstrap-prettify.js",
+		"/Users/jeado/Documents/workspace/angular.js/docs/content-ko/guide/dev_guide.templates.ngdoc",
+		"/Users/jeado/Documents/workspace/angular.js/docs/src/templates/index.html",
+		"/Users/jeado/Documents/workspace/angular.js/docs/src/ngdoc.js",
+		"/Users/jeado/Documents/workspace/angular.js/lib/grunt/plugins.js",
+		"/Users/jeado/Documents/workspace/angular.js/docs/src/gen-docs.js",
+		"/Users/jeado/Documents/workspace/angular.js/docs/src/reader.js",
+		"/Users/jeado/Documents/workspace/angular.js/docs/content-ko/guide/index.ngdoc",
+		"/Users/jeado/Documents/workspace/angular.js/build/docs/partials/guide/index.kr.html",
+		"/Users/jeado/Documents/workspace/angular.js/Gruntfile.js",
+		"/Users/jeado/Documents/workspace/angular.js/docs/src/SiteMap.js",
+		"/Users/jeado/Documents/workspace/angular.js/lib/grunt/utils.js",
+		"/Users/jeado/Documents/workspace/angular.js/i18n/spec/closureI18nExtractorSpec.js",
+		"/Users/jeado/Documents/workspace/angular.js/i18n/README.md",
+		"/Users/jeado/Documents/workspace/angular.js/test/test.js",
+		"/Users/jeado/Documents/workspace/angular.js/docs/content-ko/guide/compiler.ngdoc",
+		"/Users/jeado/Documents/workspace/angular.js/build/docs/partials/api/angular.copy.html",
+		"/Users/jeado/Documents/workspace/angular.js/docs/content-ko/api/index.ngdoc",
+		"/Users/jeado/Documents/workspace/angular.js/docs/content/tutorial/step_00.ngdoc",
+		"/Users/jeado/Documents/workspace/angular.js/src/ng/directive/ngClass.js",
+		"/Users/jeado/Documents/workspace/angular.js/docs/content/api/index.ngdoc",
+		"/Users/jeado/Documents/workspace/angular.js/docs/src/dom.js",
+		"/Users/jeado/Documents/workspace/angular.js/docs/content/guide/index.ngdoc",
+		"/Users/jeado/Documents/workspace/angular.js/docs/guide/index.kr.ngdoc",
+		"/Users/jeado/Documents/workspace/angular.js/docs/content/guide/type.ngdoc",
+		"/Users/jeado/Documents/workspace/angular.js/gen_docs.sh",
+		"/Users/jeado/Documents/workspace/angular.js/package.json",
+		"/Users/jeado/test/angular.js/docs/src/gen-docs.js",
+		"/Users/jeado/test/angular.js/Gruntfile.js",
+		"/Users/jeado/test/angular.js/lib/grunt/utils.js",
+		"/Users/jeado/test/angular.js/lib/grunt/plugins.js",
+		"/Users/jeado/test/angular.js/.gitignore",
+		"/Users/jeado/test/angular.js/gdocs.js",
+		"/Users/jeado/test/angular.js/gen_docs.sh",
+		"/Users/jeado/Documents/workspace/angular.js/grunt",
+		"/Users/jeado/Dropbox/todo/lib/angular-1.0.6/docs/index.html",
+		"/Users/jeado/Dropbox/todo/index.html",
+		"/Users/jeado/Dropbox/todo/lib/angular-1.0.6/docs/.htaccess",
+		"/Users/jeado/Documents/workspace/MUI_UI/WebContent/js/blockUI/jquery.blockUI.js",
+		"/Users/jeado/Documents/workspace/MUI_UI/WebContent/js/workflow/workflowOb.js",
+		"/Users/jeado/Documents/workspace/MUI_UI/WebContent/js/workflow/propaArray.js",
+		"/Users/jeado/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jeado/Documents/workspace/MUI_UI/WebContent/data/eqmtMwinfo.xml",
+		"/Users/jeado/Documents/workspace/MUI_UI/WebContent/data/eqmtMwList.xml",
+		"/Users/jeado/Documents/workspace/MUI_UI/WebContent/js/angularjs/a",
+		"/Users/jeado/Documents/workspace/MUI_UI/WebContent/WEB-INF/jsp/fw",
+		"/Users/jeado/Documents/M2M기술자료/010.Platform Herit/소스/KT_DIY_M2M/java_code/build.xml",
+		"/Users/jeado/Documents/M2M기술자료/010.Platform Herit/소스/KT_DIY_M2M/java_code/build.properties.sample",
+		"/Users/jeado/ini/smssp/lib/oam-api/ini/oam/common/service/AlreadyExistSACException.class",
+		"/Users/jeado/.bash_",
+		"/Users/jeado/.bash_profile",
+		"/Users/jeado/Documents/DIYM2M_AOS/new/010.Platform Herit/소스/KT_DIY_M2M/README"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"groupName",
+			"locale",
+			"process",
+			"docs",
+			"i18n",
+			"groupName",
+			"i18n",
+			"http://docs.angularjs.org/",
+			"groupName",
+			"file",
+			"text",
+			"reader",
+			"i18n",
+			"html()",
+			"self",
+			"metadata",
+			"ngdoc.",
+			"html(",
+			"html",
+			"HTML",
+			"html",
+			"i18n",
+			"path2",
+			"i18n",
+			"i18",
+			"i18n",
+			"process",
+			"content",
+			"문서",
+			"* * * * ",
+			"reader",
+			"gen-docs.js",
+			"docs",
+			"i18n",
+			"test",
+			"docs",
+			"gen",
+			"singleStrict",
+			"askPassword",
+			"buildall",
+			"pack",
+			"success",
+			"gridResize",
+			"tab",
+			"${bin-sbin.home}",
+			"bin-sbin.home",
+			"uname",
+			"UNAME",
+			"########################################",
+			"whoami_CMD"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Jeado/dev-home/workspace/gdg-web-board/package.json",
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Jeado/dev-home/workspace/gdg-web-board/.gitignore",
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Jeado/dev-home/workspace/gdg-web-board/src/app.js",
+					"settings":
+					{
+						"buffer_size": 1496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								401,
+								401
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Jeado/dev-home/workspace/gdg-web-board/index.html",
+					"settings":
+					{
+						"buffer_size": 982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								810,
+								819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app.css",
+					"settings":
+					{
+						"buffer_size": 437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.css",
+				"css/app.css"
+			],
+			[
+				"app.j",
+				"src/app.js"
+			],
+			[
+				"app.cs",
+				"css/app.css"
+			],
+			[
+				".bo",
+				".bowerrc"
+			],
+			[
+				"angular-bootstrap-prettify.js",
+				"build/angular-bootstrap-prettify.js"
+			],
+			[
+				"lib/grunt/",
+				"lib/grunt/plugins.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"partial/in",
+				"build/docs/partials/guide/index.kr.html"
+			],
+			[
+				"reader.js",
+				"docs/src/reader.js"
+			],
+			[
+				"gen-docs.js",
+				"docs/src/gen-docs.js"
+			],
+			[
+				"paca",
+				"package.json"
+			],
+			[
+				"chage",
+				"CHANGELOG.md"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"gdoc",
+				"gdocs.js"
+			],
+			[
+				"studyindex",
+				"study/userMnge/index.html"
+			],
+			[
+				"eqmwinfom",
+				"WEB-INF/jsp/svcMng/eqmtMwInfo/eqmtMwInfoMng.jsp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true
+}

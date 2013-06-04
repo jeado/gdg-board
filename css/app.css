@@ -1,0 +1,67 @@
+body {
+	background-color: rgba(0,0,0,0.07);
+}
+
+.header {
+	background-color: white;
+	margin: 0px;
+	padding: 10px;
+}
+
+.new-post {
+	background-color: white;
+	margin: 0px;
+	padding: 10px;
+}
+
+.box {
+	position: relative;
+	background: white;
+	width: 260px;
+	display: inline-block;
+	margin: 14px 7px 0 7px;
+	padding: 7px;
+	height: 150px;
+	-webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,0.33);
+	-moz-box-shadow: 0 1px 3px 0 rgba(0,0,0,0.33);
+	box-shadow: 0 1px 3px 0 rgba(0,0,0,0.33);
+}
+
+.post {
+	background: white;
+}
+
+.box:hover .cancel {
+	background: url(//ssl.gstatic.com/s2/oz/images/sge/x_icon.png) no-repeat center center;
+	cursor: pointer;
+	height: 15px;
+	position: absolute;
+	right: 9px;
+	top: 9px;
+	width: 15px;
+	z-index: 3;
+}
+
+.box:hover {
+	cursor:pointer;
+	cursor:-webkit-zoom-in;
+	cursor:-moz-zoom-in;
+	cursor:zoom-in;
+	background: rgba(0,0,0,0.07);
+}
+
+
+.box:hover button {
+	
+}
+
+.box .title{
+	padding: 10px;
+	height: 100px;
+}
+
+.box .speaker{
+	text-align: right;
+	padding: 4px;
+	border-top: 1px solid #e7e7e7;
+}
